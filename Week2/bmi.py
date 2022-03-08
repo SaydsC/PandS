@@ -1,18 +1,18 @@
 # program to calculate a persons Body Mass Index BMI
 # Author: Sadie Concannon
 # BMI = weight/height*height
-# weight in KG and Height in meters
+# weight in KG and Height in meters, bmi is weight divided by height squared
 
 def BMI(height, weight):
     bmi=weight/(height**2)
     return bmi
-# Driver Code
-height = 1.8
+# Defining variables and assign values
+height = 1.80
 weight = 65
-# calling the BMI function
+# calculate the BMI function using variables 
 bmi = BMI (height, weight)
 print("The BMI is", format(bmi), "so ", end='')
-# conditions to find out BMI category
+# conditions to find out BMI category use if functions
 if (bmi < 18.5) :
     print("Underweight")
 elif ( bmi >= 18.5 and bmi < 24.9) :

@@ -6,6 +6,6 @@ weekDay = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', '
 
 weekDay = (input("Enter the day of the week: "))
 
-if weekDay == ('Saturday' or 'sunday'):
+if weekDay == ('Saturday' or 'Sunday'):
     print("Yay, its the weekend")
 else: print ("Unfortunately it's a weekday")

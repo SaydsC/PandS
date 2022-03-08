@@ -1,3 +1,4 @@
+# author Sadie Concannon
 # program that asks the user to input any positive integer and outputs the successive values
 # calculate the next value by taking the current value
 # when even, divide it by two, 
