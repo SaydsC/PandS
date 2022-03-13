@@ -3,6 +3,7 @@
 Weekly Task 02: bmi.py
 used datacamp lecture on variables, used variables height and weight and assigned values
 later added if categorys for definig outcomes of bmi e.g. healthy, overweight
+added round function to get BMI to decimal places from https://digitash.com/learntips/topic/coding-a-simple-python-bmi-calculator-using-functions/
 
 weekly Task 03: secondstring.py
 used datacamp video and w3 resources
