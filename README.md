@@ -30,6 +30,13 @@ Used cheat sheet, DataCamp and Stackoverflow to count the number of E's
 Steps:
 Read in the text file
 Store the contents as a variable per lab
-Use Count method from a cherat sheet 
+Use Count method from a cheat sheet 
 define an argument to state frequency of a letter required
 Print the count of the letter
+
+Weekly Task 08: plottask.py
+3 axis therefore 3D graph, first did basic x,y graph with third plot point, used lab to import numpy and matploblib
+when had that plotted and defined the axes I used google to look for methods to improve appearance and to bring in 3D element
+hhtps://stackoverflow.com/questions/51891583/create-a-surface-plot-of-xyz-altitude-data-in-pyhton and to add labels and amend colours
+https://www.geeksforgeeks.org/how-to-add-labels-in-a-plot-using-python/
+
