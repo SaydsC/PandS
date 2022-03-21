@@ -21,4 +21,4 @@ elif ( bmi >= 24.9 and bmi < 30) :
     print("Overweight")
 elif ( bmi >=30) :
     print("Suffering from Obesity")
-# amend BMI to 2 decimal places
+# amend BMI to 2 decimal places added round to bmi format
