@@ -1,4 +1,7 @@
 # author Sadie Concannon
+The purpose of thid PandS repository on Github is to hold my weekly task work as required for the Programming and Scripting module - lecturer Andrew Beatty
+
+I have minimal previous programming experience other than use of maple and matlab in my previous studies.
 
 Weekly Task 02: bmi.py
 used datacamp lecture on variables, used variables height and weight and assigned values
@@ -13,17 +16,20 @@ defined the variable sentence, sentence will be the string the user inputs
 weekly Task 04: collatz.py
 use python cheat sheet and labs
 if, elif and else, int = integer
-cheats: == equal, % modulus, // division, != different
+cheats: == equal, % modulus, // division, != different - use modulus to check for even numbers
+https://www.pythonpool.com/collatz-sequence-python/
 
 weekly Task 05: weekday.py
 use variable to define a list
 else, if to select weekday or weekend from list. Use lab and cheat sheet
+https://www.w3schools.com/python/ref_func_list.asp
 
 Weekly Task 06: sqRt.py
 use google to understand Newton Theory and get formula
 define the formula to be used
 use functions, n natural num
-watch indenting, create loop with range as newton formula approximate
+watch indenting, create loop with range as newton formula approximate, research recommends iterating see link
+https://pythonproject.wordpress.com/tag/newtons-method/
 
 Weekly Task 07: es.py
 Used lab for first part to read in text file
@@ -36,8 +42,10 @@ define an argument to state frequency of a letter required
 Print the count of the letter
 
 Weekly Task 08: plottask.py
-3 axis therefore 3D graph, first did basic x,y graph with third plot point, used lab to import numpy and matploblib
-when had that plotted and defined the axes I used google to look for methods to improve appearance and to bring in 3D element
-hhtps://stackoverflow.com/questions/51891583/create-a-surface-plot-of-xyz-altitude-data-in-pyhton and to add labels and amend colours
+first did basic x,y defined the functions f(x), g(x) and h(x), used lab to import numpy and matploblib
+when had that plotted and defined the axes I used google to look for methods to improve appearance
+hhtps://stackoverflow.com/questions/51891583/create-a-surface-plot-of-xyz-altitude-data-in-pyhton and to add labels and amend colours (turtlr)
 https://www.geeksforgeeks.org/how-to-add-labels-in-a-plot-using-python/
+https://pythonguides.com/python-plot-multiple-lines/
 
+Found vast difference in my understanding from beginning of the module and have become much more comfotable in my environment
